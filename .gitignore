@@ -1,0 +1,42 @@
+# STM32 / Keil build artifacts
+*.uvguix.*
+*.uvoptx
+*.uvprojx
+*.scvd
+*.dbgconf
+*.crf
+*.d
+*.o
+*.axf
+*.lst
+*.hex
+*.bin
+*.elf
+
+# Compiled output
+Out/
+Output/
+List/
+Obj/
+DebugConfig/
+RTE/
+
+# JLink/ST-Link files
+JLinkLog.txt
+*.jlink
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vs/
+.vscode/
+*.suo
+*.user
+*.sln.docstates
+*.tmp
+
+# OS
+.DS_Store
+__MACOSX/
