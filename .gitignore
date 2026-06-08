@@ -14,8 +14,15 @@
 Out/
 Output/
 List/
+Listings/
 Obj/
+Objects/
 DebugConfig/
+*.map
+*.htm
+*.lnp
+*.sct
+*.dep
 
 # JLink/ST-Link files
 JLinkLog.txt
